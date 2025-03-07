@@ -20,7 +20,7 @@ Required libraries:
 
 2. Clone the Project
 
-git clone https://github.com/stephenson218/network-scanner
+git clone https://github.com/stephenson218/network-scanner.git
 
 cd network-scanner
 
